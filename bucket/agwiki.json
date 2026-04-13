@@ -1,12 +1,12 @@
 {
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "Agent-based wiki CLI: init, ingest, validate (links + orphans), skill export",
   "homepage": "https://github.com/goagwiki/agwiki",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/goagwiki/agwiki/releases/download/v0.1.9/agwiki-x86_64-pc-windows-msvc.zip",
-      "hash": "9003b27c8cd75c422f7703a7e3ee28723dd602bff48af66b5812664ba5be2258"
+      "url": "https://github.com/goagwiki/agwiki/releases/download/v0.1.10/agwiki-x86_64-pc-windows-msvc.zip",
+      "hash": "6c72dcafd2f309cf32bec31406b960ed10aeffc29a49a34c625649b7503c1773"
     }
   },
   "bin": "agwiki.exe",
